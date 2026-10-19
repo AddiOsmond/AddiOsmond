@@ -1,9 +1,7 @@
 <div align="center">
   
   <!-- Your Chosen Profile Banner -->
- <img src="https://githubusercontent.com" width="100%" alt="Twilight Silhouette Artwork Banner" />
 
-  <br/><br/>
 
   <!-- Main Info Card Container -->
   <table border="0" cellpadding="25" cellspacing="0" style="background-color: #24293e; border-radius: 16px; width: 85%; text-align: center; border: none; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">

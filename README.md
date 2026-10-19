@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Your Chosen Profile Banner -->
-  <img src="https://githubusercontent.com" width="100%" alt="Twilight Silhouette Artwork Banner" />
+ <img src="https://githubusercontent.com" width="100%" alt="Twilight Silhouette Artwork Banner" />
 
   <br/><br/>
 
